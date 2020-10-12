@@ -4,5 +4,6 @@ libraries:
         choice
     collections
         defaultdict
-
-classes
+OOP:
+    classes
+HOF
