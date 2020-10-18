@@ -1,4 +1,4 @@
-Concepts:
+##Concepts:
 1. FSM (finite state machine)
 A state machine reads a series of inputs. When it reads an input, it will switch to a different state. Each particular input causes a particular change in state.
 2.defaultdict()
